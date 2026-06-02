@@ -1,0 +1,6 @@
+{
+  "name": "Финансовый дашборд",
+  "description": "Интерактивный финансово-аналитический дашборд проекта с расчетом ROI, безубыточности и окупаемости",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
